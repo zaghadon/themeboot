@@ -51,7 +51,7 @@ Run `composer install`
 
 If the post install script didn't run successfully, you can manually install it globally by:
 - Windows : Adding the path to `themeboot` to system PATH variable.
--Linux : Run `sudo ln -s /usr/local/bin/themeboot /path/to/themeboot` replacing path to with your themeboot installation location. This would create a symlink between your local global bin folder and themeboot executable binary.
+- Linux : Run `sudo ln -s /usr/local/bin/themeboot /path/to/themeboot` replacing path to with your themeboot installation location. This would create a symlink between your local global bin folder and themeboot executable binary.
 
 Run `themeboot` to verify successful installation.
 
