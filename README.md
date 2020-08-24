@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" align="center" alt="logo" title="Themeboot logo" alt="Themeboot Logo" width="160">
+<img src="https://github.com/zaghadon/themeboot/blob/master/screenshot.png?raw=true" align="center" alt="logo" title="Themeboot logo" alt="Themeboot Logo" width="160">
 </p>
 
 <p align="center">
