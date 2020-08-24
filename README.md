@@ -32,7 +32,7 @@ Me self no know ooh, but as e be, if you use it and you like it eh, Just send me
 You'll need `php-cli`, [Composer](https://getcomposer.org/) and A local [WordPress](https://wordpress.org) installation to get started.
 
 Simple Installation:
-Make sure to place Composer's system-wide vendor bin directory in your $PATH so the laravel executable can be located by your system. This directory exists in different locations based on your operating system; however, some common locations include:
+Make sure to place Composer's system-wide vendor bin directory in your $PATH so the themeboot executable can be located by your system. This directory exists in different locations based on your operating system; however, some common locations include:
 
 macOS: $HOME/.composer/vendor/bin
 Windows: %USERPROFILE%\AppData\Roaming\Composer\vendor\bin
