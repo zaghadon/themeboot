@@ -1,0 +1,31 @@
+{
+  "name": "zaghadon/themeboot",
+  "description": "A Free and OpenSource Lightweight CLI app to bootstrap WordPress Theme Development",
+  "authors": [{
+    "name": "Nzagha David Eze",
+    "email": "nzaghad@topazdom.com",
+    "homepage": "https://nzaghadavid.com"
+  }],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/zaghadon/themeboot",
+  "keywords": ["cli","command-line", "template","wordpress","WP","Theme"],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "minicli/minicli": "^2.0",
+    "povils/figlet": "^1.0.0",
+    "symfony/filesystem": "^5.1"
+  },
+  "bin": "themeboot",
+  "scripts": {
+    "post-install-cmd": [
+        "themeboot"
+    ]
+  }
+}
