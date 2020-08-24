@@ -59,7 +59,7 @@ Run `themeboot` to verify successful installation.
 **Simple Usage:**
 
 Change Directory to the theme Folder of your wordpress installation.
-    `cd **/wp-content/themes/`
+    `cd **/wp-content/themes/` .
 Initialize new theme development with themeboot
     `themeboot init`
 
